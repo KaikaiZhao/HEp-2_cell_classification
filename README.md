@@ -1,5 +1,5 @@
 # HEp-2_cell_classification
-This repository is my research experience on medical image analysis. Specially, this work is to classify HEp-2 cell, i.e. Laryngeal cancer classification.
+This repository includes my research on medical image analysis. Specifically, this work is to classify HEp-2 cell, i.e. Laryngeal cancer classification.
 
 Our experiments were conducted on two competition datasets: ICPR2012 and ICPR2014 competition. All images in these two datasets are divided into two parts: positive and intermediate, as
 shown in the following figure. More specifically, the training and test sets contain (721, 734) and (10877, 2719) images respectively.
@@ -10,11 +10,11 @@ Our method contains two parts, i.e. train and test. As for training, our framewo
 
 ![ICPR2012 results](./results/iCPR2012Results.png)
 
-#   Our experiments results on ICPR2012 dataset
+##   Our experiments results on ICPR2012 dataset
 
 </br>
 </br>
 
 ![ICPR2014 results](./results/iCPR2014Results.png)
 
-#   Our experiments results on ICPR2014 dataset
+##   Our experiments results on ICPR2014 dataset
